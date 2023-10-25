@@ -23,5 +23,9 @@ public class GitExample {
 	{
 		System.out.println("enter value 2");
 	}
+	public void example6()
+	{
+		System.out.println("enter value 2");
+	}
 	
 }
